@@ -1,0 +1,7079 @@
+[
+  {
+    "accountantId": "2239C5F5",
+    "signDate": "2018-12-11T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "22A7B6CA",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "22BBCCCB",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "22C2E247",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "22EB8F2A",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 135,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2346C3A7",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "243CB3A8",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 65,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "244A26FE",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "24DE596F",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "24EB97A4",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2582D98F",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "05/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "25AF64BE",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "25DF5C75",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "25E2F3A7",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "275E4492",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "279E7C58",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "27B7E4DF",
+    "signDate": "2019-04-10T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "27CE79F8",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 83,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "27DFE3B3",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2826FCBC",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "28482AA9",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "285398B8",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "286E857A",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "28C2D2F3",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 75,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "28C6C893",
+    "signDate": "2019-08-02T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "28EE2FCA",
+    "signDate": "2019-01-28T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "28FDAC73",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 85,
+    "cancelDate": "08/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "295A2C9A",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "296CAE4E",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "29A23766",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "29E7DC7D",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 210,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2A32FD84",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2A4FDA77",
+    "signDate": "2019-02-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "07/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2A8B2DAB",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2AFBA7EC",
+    "signDate": "2019-07-10T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2B447ACE",
+    "signDate": "2019-08-09T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2B663A75",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2B8D99C5",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2BCD8C43",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2C3D6D72",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2C72A4C9",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2CCAACFC",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": "29/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2CCE2EAA",
+    "signDate": "2019-01-25T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2CEFEC2F",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2CF62DEE",
+    "signDate": "2019-06-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2D6A3C55",
+    "signDate": "2019-05-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2D876777",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2E43FA27",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 36,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2E45AACF",
+    "signDate": "2019-02-06T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2EFDAB6D",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2F3FECB6",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2FD9FE6D",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2FE26CCF",
+    "signDate": "2018-12-13T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "2FF2A8AB",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "32497C45",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "325CCC9F",
+    "signDate": "2019-04-12T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "327D33AF",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "32A8D4BB",
+    "signDate": "2019-02-26T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "32DB9CA3",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "332A7799",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 85,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "334DA9CA",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "33C45E5B",
+    "signDate": "2019-02-20T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "33CABBAF",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "24/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "342AFA75",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "34CAAC7F",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "34D6A449",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "29/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "34FCFAD9",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "356D5CBD",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "35A93AAC",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "35F7E9AF",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "11/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "363C9C9E",
+    "signDate": "2019-02-14T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "26/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "365F5DA6",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3674BCD7",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "367ACF6F",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "36969F86",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "36C2EE3C",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "375CBA3D",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "37BD8638",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "386B39DE",
+    "signDate": "2018-12-11T00:00:00",
+    "signedOrganizationsCount": 21,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "38876798",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "38933A5C",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3894D689",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "38BA4CA7",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": "16/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "38D2657B",
+    "signDate": "2019-07-29T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "38DAFCEC",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "19/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "392A4AE9",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "392CFDAF",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "21/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "394D5845",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "39522AFE",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 340,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "395F89D8",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "397AC599",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": "27/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3A359E35",
+    "signDate": "2019-02-27T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3A6726CD",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3A6C3BDD",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3A8D32BA",
+    "signDate": "2019-08-02T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3A9C7C53",
+    "signDate": "2019-03-25T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "15/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3AB8C349",
+    "signDate": "2019-08-06T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3ACA5EB5",
+    "signDate": "2019-01-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3B2DA32C",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "28/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3B2E5835",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3B543A87",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3B9A26F5",
+    "signDate": "2019-07-02T00:00:00",
+    "signedOrganizationsCount": 52,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3B9AD22B",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3BE9EDEE",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3BF3567A",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3BFEA5E7",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3C4D89AB",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CA2986C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CAC3AFD",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CAEFDDC",
+    "signDate": "2019-03-08T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CC4CBA3",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CF3FA5C",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3CFAB23A",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 330,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3DB63D5F",
+    "signDate": "2019-06-10T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3DB876ED",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 10,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3DCC394C",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3DDC25CA",
+    "signDate": "2019-04-04T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3E2BC47D",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3E3BEBCB",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3E99F9B7",
+    "signDate": "2019-07-01T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3EB9A35C",
+    "signDate": "2019-02-15T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3EBF636D",
+    "signDate": "2019-05-15T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3F5DA628",
+    "signDate": "2019-05-28T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3FC2C56C",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3FD3ACBB",
+    "signDate": "2019-03-08T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "3FEACFE2",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "426269D6",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 22,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "42BEABAC",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "42E4BFB9",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "21/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "432CCCD8",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "43AB7E4F",
+    "signDate": "2019-02-14T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "442CD3C5",
+    "signDate": "2019-04-17T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "443C2FF4",
+    "signDate": "2019-05-24T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4468BBD6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "44B623CF",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "44CCB7C8",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "44DB9EFA",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "453CACFD",
+    "signDate": "2019-08-23T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "457CEDC3",
+    "signDate": "2019-03-08T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "459CCF29",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "45A6A4FF",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "45BAC537",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "45D97C89",
+    "signDate": "2019-06-04T00:00:00",
+    "signedOrganizationsCount": 190,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "45F9EAAF",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "46A4DCF5",
+    "signDate": "2019-05-13T00:00:00",
+    "signedOrganizationsCount": 125,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "46CCEAF6",
+    "signDate": "2019-06-04T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "46D4A48C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 15,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "474CA583",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "47544AB7",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "476CE4AD",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "47A469C2",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "47BFBC23",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "47DCB9FF",
+    "signDate": "2019-06-26T00:00:00",
+    "signedOrganizationsCount": 294,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "485B6A3E",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 55,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "486E426C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4894C5AC",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": "20/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "48C84C36",
+    "signDate": "2019-07-11T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "492523C8",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "493AC82B",
+    "signDate": "2019-02-11T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "493BCDFA",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4945C6AE",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "499E7335",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "49B9EC37",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "49CD228B",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4A2FFAFA",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4A33DFFF",
+    "signDate": "2019-05-28T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4A43B738",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4A8AA299",
+    "signDate": "2019-07-02T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4ABABCA6",
+    "signDate": "2019-07-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4ACA228C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4B3ABA4C",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "06/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4B448CDC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4B554774",
+    "signDate": "2019-01-24T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4B64747A",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 18,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4BFD9CEA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4C4ED6FD",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 700,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4C732A38",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4C87E56F",
+    "signDate": "2019-04-01T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4CA27AAC",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4CA28436",
+    "signDate": "2019-03-08T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4CC2DC68",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4CECE79C",
+    "signDate": "2019-04-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "02/09/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4D35594A",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4D4AB7DE",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4DAF9ADC",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E2AAC25",
+    "signDate": "2019-01-25T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "09/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E2ACCFA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E2E2BCB",
+    "signDate": "2019-02-08T00:00:00",
+    "signedOrganizationsCount": 600,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E62ACA2",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E767DD6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4E9328D3",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4EA2BA27",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4ED2FFAA",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4EFEF74A",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4F28424C",
+    "signDate": "2019-05-30T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4FB5FE9A",
+    "signDate": "2019-04-15T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4FC7546B",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 280,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4FD57C52",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4FDA5A44",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "4FDBADCC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 330,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "52BCCD69",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "52CBCCC4",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 270,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "52CDCAD7",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 125,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "52F92479",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "52FCAB69",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "53274883",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "539B7324",
+    "signDate": "2019-02-27T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "53A2D724",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "53C397F8",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "548EF7FB",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54939E92",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54A73C2F",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54A777AE",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "20/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54C7DF7A",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54C9FB88",
+    "signDate": "2019-06-13T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "54CCBCA4",
+    "signDate": "2019-09-05T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "56232B2C",
+    "signDate": "2019-04-05T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5637A4EA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "566A8A7F",
+    "signDate": "2019-01-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "56749CEC",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "03/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "56BCBDCC",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "56C4CFA5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5728958B",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "57AC72C5",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "57BF35F4",
+    "signDate": "2019-06-12T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5879FAFA",
+    "signDate": "2019-08-07T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "58AD6DC3",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "58C3285A",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "58C6AA8F",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "58DFA788",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "593768F5",
+    "signDate": "2019-02-05T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "13/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "599CC4FF",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5A4653A9",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5A4AECE8",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "15/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5A4FBE6A",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5A92BC3A",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5A9C78A5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5AAD64FD",
+    "signDate": "2019-03-25T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5B4A7A28",
+    "signDate": "2019-01-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5B73E927",
+    "signDate": "2019-04-11T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5B9D4AD7",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5BAC788C",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5C26332C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5C499955",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5C7B45B8",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CC8C629",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CCA7A34",
+    "signDate": "2019-01-29T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CCAA447",
+    "signDate": "2019-08-27T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CCC5BFD",
+    "signDate": "2019-05-03T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CCE6A3A",
+    "signDate": "2019-02-05T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CEAFC77",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5CEDF44C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5D26FEF3",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5D32A25D",
+    "signDate": "2019-06-07T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5DC6C4AC",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "22/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5E433CAD",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5EAAB6AE",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5F57EB2B",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5F83D65C",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "5FC28AC4",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6237378B",
+    "signDate": "2019-04-10T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "629C8A52",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "62A2D485",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "62AC647D",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "62F2B5C2",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "63269B7B",
+    "signDate": "2019-01-25T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "04/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "633C9A9A",
+    "signDate": "2019-02-26T00:00:00",
+    "signedOrganizationsCount": 600,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "63EB7826",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "648A4CB8",
+    "signDate": "2019-01-28T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6498C3A4",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "64A54AEE",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "64E9AAC2",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "65CCAB8C",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "65FF4FAC",
+    "signDate": "2019-01-31T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "27/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "66944995",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "669B3855",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "67233E6C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "673ADA8C",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "05/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6765A2F4",
+    "signDate": "2019-03-29T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "67C7EF9F",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "68728CE7",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6872C7AA",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": "21/01/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "68D8CF97",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "69C5D83A",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "69D6EEC4",
+    "signDate": "2019-06-05T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6A7B9749",
+    "signDate": "2019-08-28T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6A87B6E3",
+    "signDate": "2019-07-29T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6AC7569B",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 97,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6ACABC8F",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 210,
+    "cancelDate": "14/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6AD8F265",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6ADA46E2",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6AECAEA8",
+    "signDate": "2019-06-06T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6AF56AFB",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6B2AC7AE",
+    "signDate": "2018-12-13T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "22/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6B38A3A4",
+    "signDate": "2019-04-26T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6B3F9493",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6B46C569",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6BA8CAFA",
+    "signDate": "2018-12-06T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6C4B9F4F",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6C62AEDC",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 22,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6C7572AA",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "28/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6CAC6CA4",
+    "signDate": "2019-05-03T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6CB45C79",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "18/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6CCD34B4",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6CDDCBD3",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6D4A7DF4",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6D528AAA",
+    "signDate": "2019-01-04T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "22/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6D64ECCD",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "10/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6DC58C5A",
+    "signDate": "2019-01-29T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6EBAC2FB",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "25/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6EBF3D62",
+    "signDate": "2019-04-30T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6EE4A6E8",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6F5AB7F3",
+    "signDate": "2018-12-05T00:00:00",
+    "signedOrganizationsCount": 7,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6FD635CC",
+    "signDate": "2019-04-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "6FEBE7ED",
+    "signDate": "2019-07-10T00:00:00",
+    "signedOrganizationsCount": 182,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7225EB24",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "723F223A",
+    "signDate": "2019-02-05T00:00:00",
+    "signedOrganizationsCount": 220,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "729BA975",
+    "signDate": "2019-02-19T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "72A96AD5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "72C24BFE",
+    "signDate": "2019-04-04T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "29/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "72F795E4",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": "01/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "743FEF78",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "74A2246C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "74A667C8",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "74B3CAD4",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "74F2CBB8",
+    "signDate": "2019-04-16T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "74F56C7B",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "75227998",
+    "signDate": "2019-07-02T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "752CABCA",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "75C364F9",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 12,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "75E44338",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "19/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "762FDAAD",
+    "signDate": "2019-02-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7635CBCA",
+    "signDate": "2019-05-29T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7639C2A2",
+    "signDate": "2019-07-25T00:00:00",
+    "signedOrganizationsCount": 224,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "763DC5B8",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "76667ABD",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "76EE2A8B",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7744A77C",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "774A93A6",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7759A56B",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "776B7D24",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "776C5963",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "29/01/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "77927FED",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "77BBD93C",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 270,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "77CA737A",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "788A7378",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "13/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "78B59375",
+    "signDate": "2019-05-13T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "02/09/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "78DCA6D7",
+    "signDate": "2019-04-05T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7942AA9A",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7955776B",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "79957F77",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "79A23636",
+    "signDate": "2019-07-11T00:00:00",
+    "signedOrganizationsCount": 600,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "79A7DFDE",
+    "signDate": "2019-04-25T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "79AAC8AE",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "79EACE2A",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7A4679DE",
+    "signDate": "2019-07-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7A4A4A37",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7A8848AC",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7AA6DD56",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7AA7BAAB",
+    "signDate": "2019-04-12T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7AAEF738",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7AECBED2",
+    "signDate": "2019-08-28T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7B29C93C",
+    "signDate": "2019-01-24T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7BA6CC9C",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C43E6BA",
+    "signDate": "2019-08-08T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C44DB45",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C4DDB2C",
+    "signDate": "2019-01-07T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": "27/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C687BF3",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C74BA63",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C77A693",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C7AE5A4",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7C9C5F63",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7CC89ACC",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 350,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7CCC576A",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7CE28CAD",
+    "signDate": "2019-04-16T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7D33D57A",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7D49939D",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7D685D54",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7DA56D84",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 66,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7DBFAD9E",
+    "signDate": "2018-12-11T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7DC4D42D",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7E343E3E",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "10/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7E4C33B7",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "24/01/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7E74EBAB",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7EA848E5",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7EAB9CCD",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 10,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7EF55C34",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7F99836D",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": "03/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7FA2D926",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7FA3FC69",
+    "signDate": "2019-05-17T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "7FAC5C9A",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "822ED8E7",
+    "signDate": "2018-12-11T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "19/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8243C543",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8246B5CE",
+    "signDate": "2019-08-02T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "835EA7FC",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "29/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "837BBD76",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "83EEA74F",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "83FBA9C8",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "07/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "83FBF2DA",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 15,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "84233AC3",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8462DC93",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "848C59D7",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "84A3736A",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "854FAD45",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8583DABA",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "858DCC3F",
+    "signDate": "2019-08-09T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "85C9C489",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8642443D",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 34,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "86657CCC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "87A4BD8A",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "22/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "87CC76D8",
+    "signDate": "2019-03-28T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88723D8C",
+    "signDate": "2019-03-14T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "06/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "887CBAFB",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88A4A53F",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 260,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88C377A6",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88CD25B8",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88E7AD36",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88E8FF3C",
+    "signDate": "2019-07-29T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "88ECF7CD",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "27/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "892CC4B7",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8977CFD2",
+    "signDate": "2019-01-09T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "12/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "898A5387",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8A5F2CA4",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8A62FC5A",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8B4EB7EA",
+    "signDate": "2019-04-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8BCADFAA",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8BCF38C9",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8C3E6A55",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8C5BA54A",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8C6A2BBB",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8C75728C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8CAEC399",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 177,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8CC69ABC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8CEC9CFA",
+    "signDate": "2019-08-06T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8D222C8D",
+    "signDate": "2019-06-10T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8D26CEC7",
+    "signDate": "2019-01-28T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8D278FD2",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8DC5B3C2",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8DE58CED",
+    "signDate": "2019-03-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8E7D7CF5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8E9CEF5B",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "8F2AAA68",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "92BC43D9",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 36,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "92CBD428",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "93AAE7E8",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "93AAEE5C",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "93DA9AB5",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "93F92B3C",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "947DCF84",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "94A72CBF",
+    "signDate": "2019-01-31T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "27/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "94DDCCDA",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "13/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9528B43E",
+    "signDate": "2019-02-28T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": "16/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "95542FA7",
+    "signDate": "2019-03-27T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "955E3B2C",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "956DD7F9",
+    "signDate": "2019-05-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "95748C38",
+    "signDate": "2019-07-10T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "95CCAAC5",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 10,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "95EDB722",
+    "signDate": "2019-02-06T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "966BC88A",
+    "signDate": "2019-01-09T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "966C4C8A",
+    "signDate": "2019-06-27T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "96ACB33E",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "96EB7367",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "973D57CA",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9747CA5D",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9789D87A",
+    "signDate": "2019-05-16T00:00:00",
+    "signedOrganizationsCount": 220,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "97974BA8",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "97A56A2B",
+    "signDate": "2019-01-30T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "97BFAB25",
+    "signDate": "2019-01-09T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "27/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "97C562A9",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 65,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "97C577B2",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9859772F",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "29/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "988F7CB5",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "98AC9F4C",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "98C4ABAA",
+    "signDate": "2018-12-13T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "98CB7AB6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "99798CAF",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "99AA3848",
+    "signDate": "2019-09-05T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "99EB8CD5",
+    "signDate": "2019-08-02T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "99FC98C8",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9A76C463",
+    "signDate": "2019-01-24T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "12/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9AD28EC9",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 700,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9AD4B4E4",
+    "signDate": "2019-09-05T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9B3242C9",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9B888FCB",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9BD4CAAA",
+    "signDate": "2019-06-11T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9BEC8BA4",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9C224288",
+    "signDate": "2019-07-01T00:00:00",
+    "signedOrganizationsCount": 36,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9C5A2C4A",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9C87ABDC",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "11/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9C9A9CF3",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9C9E6634",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9CA2F3AC",
+    "signDate": "2019-01-17T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9CAF3AFC",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 280,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9CCDD94C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 730,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9CD865A2",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9CEEF383",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9D28CA3C",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9E35F486",
+    "signDate": "2019-06-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9E7AA5CB",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9EDCC6F7",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9F3597A4",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9F3C5FE7",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9F47A7F3",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9F5CE5F5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9F897D2A",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9FA3E53A",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9FBC3A4A",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9FDCE386",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 175,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "9FE2F8CF",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A244FAAA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A26BC35F",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 1200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A2A5A353",
+    "signDate": "2019-05-24T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A2A7CDC2",
+    "signDate": "2019-08-28T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A2AAC556",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "20/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A2DDF47E",
+    "signDate": "2019-03-29T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A3A8C32E",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A3A8D443",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A3B58799",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A3BFF75C",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "19/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A3E7E34E",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A43BCDCF",
+    "signDate": "2019-06-06T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A49F6E85",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A4B3BF84",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 15,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A4F54EAC",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A53CC329",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "19/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A54E2EC6",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A57F6E39",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A587EAEE",
+    "signDate": "2019-06-11T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5A93F2F",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "08/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5AE48FD",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5B74AB4",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5D83C32",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5F6F459",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A5FA6B95",
+    "signDate": "2019-07-05T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6299DCD",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A642AA69",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 350,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A647C2AA",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A65BBE4D",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A67AC84E",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A68FEC44",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A694AD3A",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": "19/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6A25C32",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": "28/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6BCAF2E",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6DAB9C6",
+    "signDate": "2019-08-07T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6EB3355",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 500,
+    "cancelDate": "09/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A6F93CC5",
+    "signDate": "2019-07-08T00:00:00",
+    "signedOrganizationsCount": 280,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A742A8B3",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 230,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A755ABBE",
+    "signDate": "2019-04-15T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A755AE27",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A75D3AE3",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A79752AA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A7B2CE7B",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A85C5F6F",
+    "signDate": "2019-05-13T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A86CDAAF",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A8795B9A",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A89C5973",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A8A2E7CC",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A8A8CAFE",
+    "signDate": "2019-02-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A8CCC5FC",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A8E2B3A7",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "13/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A96FDE7E",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A9B47FB7",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A9CABF45",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A9DB4487",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "A9EA68B5",
+    "signDate": "2019-09-05T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA2F74CD",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA3E5B25",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA466244",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA46C7AA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA47AF2C",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA67BC3C",
+    "signDate": "2019-04-24T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA67CC2A",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 164,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA69A5DF",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA69E58F",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA75AABA",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA9553A6",
+    "signDate": "2019-02-26T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA9D257C",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AA9DAAAC",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AAAF9FBA",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AABD588B",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AAC5AFD4",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AACC6AA4",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "02/09/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AAE3DA6E",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 125,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AB42F63D",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AB4426F6",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AB58FBCA",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AB9AF75E",
+    "signDate": "2019-01-04T00:00:00",
+    "signedOrganizationsCount": 220,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AB9E5FDB",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 18,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ABB68377",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ABD3A64D",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ABEBE66B",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "13/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC328527",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC373BE4",
+    "signDate": "2019-08-06T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC3753AD",
+    "signDate": "2019-03-07T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC3ADF6F",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC3C6E42",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC3CEDD6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC4E372F",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC5EFAA7",
+    "signDate": "2019-02-11T00:00:00",
+    "signedOrganizationsCount": 350,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC6AF37D",
+    "signDate": "2019-07-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC7E7CD8",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC849929",
+    "signDate": "2019-05-03T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC8BD7C2",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "20/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC97426C",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC9B5D6A",
+    "signDate": "2019-04-04T00:00:00",
+    "signedOrganizationsCount": 220,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AC9C33B7",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACACFEC9",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACC262D9",
+    "signDate": "2019-06-14T00:00:00",
+    "signedOrganizationsCount": 111,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACC3876E",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACCB8FDB",
+    "signDate": "2019-08-09T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACDCFCAE",
+    "signDate": "2019-01-28T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ACF64AA9",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AD24FD49",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AD3BC6C3",
+    "signDate": "2019-02-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AD5552CE",
+    "signDate": "2019-05-17T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ADC6E274",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ADDE3D64",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AE64BA57",
+    "signDate": "2019-06-12T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AE72D75B",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AE77D29C",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AEA2F97C",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 65,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AEABDCB4",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AED49EEC",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AF4A5BA5",
+    "signDate": "2019-03-27T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AF625AAF",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AF7B2D28",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AF8A5F37",
+    "signDate": "2019-01-30T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "28/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AF9CFB2F",
+    "signDate": "2019-04-17T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AFA37BD5",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "AFA94D57",
+    "signDate": "2019-02-18T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B245FF57",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B2827A52",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B29CD6BA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B2AC2D67",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B2D6A9B9",
+    "signDate": "2019-01-28T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B2D73A42",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B2E8BD74",
+    "signDate": "2019-02-05T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B32F26BE",
+    "signDate": "2019-05-20T00:00:00",
+    "signedOrganizationsCount": 260,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B3A2C2E2",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B3AA5AA8",
+    "signDate": "2018-12-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B3F768D3",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B47C9DC6",
+    "signDate": "2019-07-03T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B4AB4CBF",
+    "signDate": "2019-01-15T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B4DDF858",
+    "signDate": "2019-07-23T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B53FCCC5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B59E8FC8",
+    "signDate": "2019-04-04T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B5CD25A2",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B628C856",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B649C4C9",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B66FF352",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B6A2793D",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B72546AC",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B7A2BFAC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B7A898C7",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B7CBB7C9",
+    "signDate": "2019-01-29T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B7CC7C2A",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B7F63FA7",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B89A7ECA",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B8D3294E",
+    "signDate": "2018-12-06T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "22/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B942444A",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B966E59E",
+    "signDate": "2019-01-30T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "B96A285A",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BA89ACCA",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BAA94525",
+    "signDate": "2018-12-06T00:00:00",
+    "signedOrganizationsCount": 260,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BAA954DA",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BBAAFCEC",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BBC9F7C9",
+    "signDate": "2019-04-26T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BBEF4C8B",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC235CCA",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": "01/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC2E84AC",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC6959A4",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC7CD3C8",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC837BEA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC88AA4C",
+    "signDate": "2019-08-28T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BC937B72",
+    "signDate": "2019-02-20T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BD49A435",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BD746A38",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDBA2EDF",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDBC553C",
+    "signDate": "2019-04-16T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDCE5E6A",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDCEE5EF",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDE97876",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BDEAB689",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BEAA77D3",
+    "signDate": "2019-07-02T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BEAD964C",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BF229A5A",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BF8345DC",
+    "signDate": "2019-06-26T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BF9C7FC3",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BFA6235A",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "BFC84A5C",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C222F72C",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C22CAC72",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C22F2AC8",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C23ADB2A",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C23C8FA6",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "27/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C23C947B",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C249D9E5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 56,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C24F424B",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "16/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C29873E5",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2A53C3E",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2A5E33A",
+    "signDate": "2019-06-07T00:00:00",
+    "signedOrganizationsCount": 85,
+    "cancelDate": "21/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2AB284F",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 550,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2BCAA77",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2C2D725",
+    "signDate": "2019-04-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2CC75B7",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2D255A3",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "22/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C2D8CFFC",
+    "signDate": "2018-12-06T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3252468",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C339CBF7",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C37AFAC2",
+    "signDate": "2019-07-05T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C38E8A76",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C38FEBA5",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3B7AEDA",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 380,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3BD35CD",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3CC87D7",
+    "signDate": "2019-06-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3D6EDCA",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "13/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3EC8254",
+    "signDate": "2019-02-11T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C3FD8A96",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C423A483",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C456AAB4",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C45C795F",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C488F5C6",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C4BEF3EB",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C4C69C2F",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": "20/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C4F3ECDC",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5723E82",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C58EC7A9",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5A62274",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5C3ADEB",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5DD52A7",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5FCA74F",
+    "signDate": "2019-05-28T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C5FCFC5F",
+    "signDate": "2019-07-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C64952CF",
+    "signDate": "2019-01-08T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C658DAF4",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C68C5C5A",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6927A75",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6A477CB",
+    "signDate": "2019-06-11T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6A89A8C",
+    "signDate": "2019-03-19T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6CFD3C7",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6EA2A63",
+    "signDate": "2019-01-31T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C6F4A5AB",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C72AF69B",
+    "signDate": "2019-04-05T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C754FA54",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C795C97A",
+    "signDate": "2019-07-01T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C7A754A5",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "20/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C7C226FF",
+    "signDate": "2019-02-11T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C84AAF92",
+    "signDate": "2019-06-17T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8884A7A",
+    "signDate": "2019-07-24T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C892529C",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8A48B7B",
+    "signDate": "2019-06-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8A9AAC8",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8AC4C79",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "28/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8BFAC52",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8CA2BDA",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "30/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C8D7ADF3",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C93FFFB5",
+    "signDate": "2019-08-27T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C95D499E",
+    "signDate": "2019-02-26T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C9794485",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C99E2FB4",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "C9A4D238",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA3236ED",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA3F7978",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA4C4D4E",
+    "signDate": "2019-06-14T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": "05/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA575388",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA5A7495",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA5D6AC6",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA6C5C2A",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA75FCC6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA79AEE3",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA82F3C3",
+    "signDate": "2019-08-14T00:00:00",
+    "signedOrganizationsCount": null,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CA9B5AA4",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CAC323A6",
+    "signDate": "2018-12-06T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": "07/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CACC434B",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CADA75CE",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CADE2756",
+    "signDate": "2019-02-04T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CAE934E5",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CAF43937",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CAF5D9C9",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CAF9BCEE",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CB275BCD",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CB44765B",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CB5CF7F3",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 160,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CB5E445C",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CBA88EF2",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CBC6FDC5",
+    "signDate": "2019-08-07T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC24EFB6",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC387D28",
+    "signDate": "2019-04-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC528C5A",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC56AE67",
+    "signDate": "2019-05-14T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC67E6A6",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC6A5DA3",
+    "signDate": "2019-07-25T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC6AACD6",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC6C4743",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "30/01/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC72AC36",
+    "signDate": "2018-12-13T00:00:00",
+    "signedOrganizationsCount": 190,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CC9D8FAE",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 600,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCA4A4FF",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCA878EC",
+    "signDate": "2019-02-28T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCA9C6BC",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCACFFF8",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCC8554C",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "11/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCC97757",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CCCF3EA6",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD3A247C",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "13/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD46B35C",
+    "signDate": "2019-04-29T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD4E4459",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "15/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD57CF5A",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD8427C2",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD943ACE",
+    "signDate": "2019-08-13T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CD9F3DEF",
+    "signDate": "2019-07-08T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDBC3A52",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDC8856C",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDC8AA58",
+    "signDate": "2019-07-01T00:00:00",
+    "signedOrganizationsCount": 240,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDD659E3",
+    "signDate": "2019-07-16T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDDA7AA6",
+    "signDate": "2019-08-07T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDE57C32",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CDF23FC7",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CE3E6437",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CE4B768A",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CE6F558C",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "02/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CECF6C3A",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CED2DEDF",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CEE42782",
+    "signDate": "2019-02-18T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "07/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CEFCA85C",
+    "signDate": "2019-01-24T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CF34E3C2",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CF5CDC33",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CFB3CAAC",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "CFC4BACB",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D24367DE",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D26ACAA7",
+    "signDate": "2019-04-02T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D26CBFAF",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D2AA8CA4",
+    "signDate": "2019-04-08T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D2CC8B5A",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3399A6C",
+    "signDate": "2019-08-07T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D33AAADC",
+    "signDate": "2019-08-15T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3AAED36",
+    "signDate": "2019-04-08T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3ABA848",
+    "signDate": "2019-09-03T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3CEB8C5",
+    "signDate": "2019-07-18T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3DE4E92",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D3ECD5F9",
+    "signDate": "2019-02-13T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "27/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D4B7A3A2",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 15,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D54AC7A7",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D554C26C",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D55963F4",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D5799F3B",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D5C7832D",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D6A2F9CB",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D6C6C4AC",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D6E48F99",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D73CA2C6",
+    "signDate": "2019-01-14T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D76396D2",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D7CCAC3F",
+    "signDate": "2019-05-17T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D82436BA",
+    "signDate": "2019-01-16T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D832669C",
+    "signDate": "2019-06-27T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D8DCCCB2",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 45,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D8E248FF",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D8EA66F5",
+    "signDate": "2019-07-05T00:00:00",
+    "signedOrganizationsCount": 320,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D9663F86",
+    "signDate": "2019-02-06T00:00:00",
+    "signedOrganizationsCount": 325,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D9C63A2A",
+    "signDate": "2019-06-12T00:00:00",
+    "signedOrganizationsCount": 260,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D9EC88AE",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "D9ECA582",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 170,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DA2DA97C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DA5BE987",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "18/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DA8E9642",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DAA23BC5",
+    "signDate": "2019-05-03T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DAAFB93C",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DAEA3AC3",
+    "signDate": "2019-02-27T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DAFE4ACF",
+    "signDate": "2019-07-09T00:00:00",
+    "signedOrganizationsCount": 10,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DBD64BEB",
+    "signDate": "2019-02-06T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DC2C47CC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DC5CA6FC",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DC5E63FC",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DC795DEC",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 125,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DCA2933C",
+    "signDate": "2019-07-15T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DCDC5D5E",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DCE35B2D",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DCFACCC7",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DCFE932F",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DD6DA49C",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDA2EE34",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDCB7BC4",
+    "signDate": "2019-06-04T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDCFCF44",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDEAC7CE",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 260,
+    "cancelDate": "05/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDFA9FC8",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DDFBC78D",
+    "signDate": "2019-04-17T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DEF3F7A8",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "DFEF57EA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E2686A2A",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E27BAEB8",
+    "signDate": "2019-02-08T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E29C3AEC",
+    "signDate": "2019-04-16T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E2CA43C5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E3AAD5AA",
+    "signDate": "2019-02-11T00:00:00",
+    "signedOrganizationsCount": 230,
+    "cancelDate": "04/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E3AC65CA",
+    "signDate": "2019-04-24T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E3FD454C",
+    "signDate": "2019-03-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E46D4DDA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E47D2A4B",
+    "signDate": "2019-09-02T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E47F3F52",
+    "signDate": "2019-07-26T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E499A9CA",
+    "signDate": "2019-05-03T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "14/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E4ABC389",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E4CCA47D",
+    "signDate": "2018-12-05T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E4CF7C25",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E4F7B8CF",
+    "signDate": "2019-05-31T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E5CCFD3C",
+    "signDate": "2019-02-26T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E5DBAAA4",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 140,
+    "cancelDate": "22/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E5E3C777",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E5EBCEAF",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": "24/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E5FD5E28",
+    "signDate": "2019-03-07T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E6677FEB",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E68AA2FA",
+    "signDate": "2019-03-29T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E6CEDAEB",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 450,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E77C4C69",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E7CDADED",
+    "signDate": "2019-02-05T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E86563CB",
+    "signDate": "2019-08-01T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E8A22723",
+    "signDate": "2019-03-18T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E935FE48",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E9AF5B84",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E9BBBCCC",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 85,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E9CC7C2D",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "E9DDC884",
+    "signDate": "2019-04-15T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EA29F995",
+    "signDate": "2019-05-13T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EA3AAAD7",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 115,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EA66978B",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 63,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EA6BEBE6",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EAA39FA9",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "20/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EAAA282B",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EAC2F3EE",
+    "signDate": "2019-01-18T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": "17/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EAC844C5",
+    "signDate": "2019-03-15T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EADAEA9D",
+    "signDate": "2019-08-20T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EB23F95B",
+    "signDate": "2019-03-19T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EB253B73",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 110,
+    "cancelDate": "02/09/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EB7ABF39",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EC787ED9",
+    "signDate": "2019-02-18T00:00:00",
+    "signedOrganizationsCount": 280,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EC973AAA",
+    "signDate": "2019-02-20T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": "19/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EC9CFAA9",
+    "signDate": "2019-06-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ECA33FE6",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ECA954E3",
+    "signDate": "2019-06-17T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "19/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ECF32443",
+    "signDate": "2019-07-31T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ECF9BA34",
+    "signDate": "2019-08-30T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "ED2A6C35",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EE432A38",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 220,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EE8968C7",
+    "signDate": "2018-12-04T00:00:00",
+    "signedOrganizationsCount": 40,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EEDAC5CE",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EEECF3AD",
+    "signDate": "2019-07-12T00:00:00",
+    "signedOrganizationsCount": 82,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "EFAF2B65",
+    "signDate": "2019-07-17T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F2ACAC9C",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F2C7C38C",
+    "signDate": "2019-01-29T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "04/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F323289C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F336DEE2",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F33EDA94",
+    "signDate": "2018-12-10T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F349C966",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 55,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F35A565F",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F3E49A8C",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 25,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F44A22D3",
+    "signDate": "2019-04-18T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F4837CC5",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F5266842",
+    "signDate": "2018-12-07T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": "18/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F5AAABAF",
+    "signDate": "2019-05-23T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F5B6A98B",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F5B73735",
+    "signDate": "2018-12-12T00:00:00",
+    "signedOrganizationsCount": 180,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F5C4FEC9",
+    "signDate": "2019-05-13T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F6A39A7A",
+    "signDate": "2019-01-29T00:00:00",
+    "signedOrganizationsCount": 30,
+    "cancelDate": "18/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F6A48B69",
+    "signDate": "2019-01-21T00:00:00",
+    "signedOrganizationsCount": 350,
+    "cancelDate": "06/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F6D69A29",
+    "signDate": "2019-02-28T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F737CC5B",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "24/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F7E7798B",
+    "signDate": "2019-01-31T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F7EA963B",
+    "signDate": "2019-07-02T00:00:00",
+    "signedOrganizationsCount": 240,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F7EDB6C5",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 32,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F838AA96",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F889A4F9",
+    "signDate": "2018-12-17T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "28/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F8DA57C7",
+    "signDate": "2019-05-07T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F8DBEC9C",
+    "signDate": "2019-07-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F953A953",
+    "signDate": "2019-07-30T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F962ACAC",
+    "signDate": "2018-12-11T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F962C973",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F98CC7CC",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F9DCCCE9",
+    "signDate": "2019-06-17T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "F9E7CA5B",
+    "signDate": "2019-08-14T00:00:00",
+    "signedOrganizationsCount": 800,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FA32CD22",
+    "signDate": "2019-06-12T00:00:00",
+    "signedOrganizationsCount": 116,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FA5C2D46",
+    "signDate": "2019-02-18T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": "21/08/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FA5E265B",
+    "signDate": "2019-03-19T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FADD68AC",
+    "signDate": "2019-01-17T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FAFFA5CB",
+    "signDate": "2019-04-12T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FB2CC4DF",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 35,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FB7CA94A",
+    "signDate": "2018-12-19T00:00:00",
+    "signedOrganizationsCount": 300,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FC3AF58D",
+    "signDate": "2019-08-02T00:00:00",
+    "signedOrganizationsCount": 158,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FC63C67D",
+    "signDate": "2019-06-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "28/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FC643EFA",
+    "signDate": "2019-02-07T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": "09/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FC6DE6DA",
+    "signDate": "2019-02-12T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": "16/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FC6EE4AA",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 20,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FCBCC8CA",
+    "signDate": "2019-08-16T00:00:00",
+    "signedOrganizationsCount": 80,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FCCE8FAF",
+    "signDate": "2019-05-21T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FCDA59DA",
+    "signDate": "2019-08-19T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FCE28DF4",
+    "signDate": "2019-02-21T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": "11/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FCFAF243",
+    "signDate": "2018-12-14T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": "21/06/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FD7DA299",
+    "signDate": "2019-08-29T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FDB5368A",
+    "signDate": "2019-07-04T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FDB68BFB",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FE2B4A3C",
+    "signDate": "2019-02-07T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FE4B4D86",
+    "signDate": "2019-06-19T00:00:00",
+    "signedOrganizationsCount": 60,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FEA4A9CF",
+    "signDate": "2019-04-15T00:00:00",
+    "signedOrganizationsCount": 400,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FEA8CA8A",
+    "signDate": "2019-07-01T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FEAC7BCE",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 70,
+    "cancelDate": "21/05/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FEAD27FC",
+    "signDate": "2019-02-14T00:00:00",
+    "signedOrganizationsCount": 390,
+    "cancelDate": "18/07/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FEDAA4FA",
+    "signDate": "2019-03-20T00:00:00",
+    "signedOrganizationsCount": 200,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FF2AFF9B",
+    "signDate": "2019-08-12T00:00:00",
+    "signedOrganizationsCount": 250,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FF2EC2EC",
+    "signDate": "2018-12-20T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": "26/02/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FF6CEC93",
+    "signDate": "2019-07-08T00:00:00",
+    "signedOrganizationsCount": 90,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FF7F9C4B",
+    "signDate": "2018-12-05T00:00:00",
+    "signedOrganizationsCount": 120,
+    "cancelDate": "13/03/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FFC79886",
+    "signDate": "2019-08-21T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FFCDBBAE",
+    "signDate": "2019-08-05T00:00:00",
+    "signedOrganizationsCount": 150,
+    "cancelDate": null,
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FFD66F26",
+    "signDate": "2018-12-18T00:00:00",
+    "signedOrganizationsCount": 50,
+    "cancelDate": "18/04/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FFE5ECCB",
+    "signDate": "2018-12-13T00:00:00",
+    "signedOrganizationsCount": 130,
+    "cancelDate": "02/09/2019",
+    "ignoreField": null
+  },
+  {
+    "accountantId": "FFECA53A",
+    "signDate": "2019-05-16T00:00:00",
+    "signedOrganizationsCount": 100,
+    "cancelDate": null,
+    "ignoreField": null
+  }
+]

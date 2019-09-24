@@ -1,7 +1,5 @@
-Meu perfil
--------
+Seu Nome Completo
+=============================
+**https://urldoseulinkedin.com**
 
-**Nome completo:**   
-**Data de nascimento:**   
-**LinkedIn:**    
-**Como nos conheceu:**   
+> **Como nos conheceu?** Escreva aqui como ficou sabendo do Nibo e da vaga
