@@ -1,4 +1,4 @@
-NIBO Danta Analyst Challenge - Level 2
+NIBO Data Analyst Challenge - Level 2
 ==============
 
 Quer saber o por que vale a pena trabalhar no nibo? Acesse [tech.nibo.com.br](https://tech.nibo.com.br)
@@ -18,7 +18,7 @@ Temos muitos dados vindos de várias fontes. Para este problema, temos dois arqu
 `SRC/CreatedOrganizations.sql` Possui a QUERY para inserir em um banco de dados a lista de todas as empresas criadas no sistema. Cada linha representa uma empresa com seu ID único (organizationId), o contador relacionado (accountantId), a data de criação (organizationCreateDate) e ainda possui a data de criação do próprio contador (accountantCreateDate), dado este que deveria estar no primeiro arquivo.   
 
 ### O que você deverá fazer
-Você precisará criar uma análise Cohort que indique a taxa de criação de empresas ao longo de 12 meses desde a data de contratação do contador. Não sabe o que é Cohort? [Leia este artigo](https://customersuccessbrasil.com/analise-cohort-um-grande-aliado-da-operacao-de-customer-success/) e entenda.
+Você precisará criar uma análise Cohort que indique a taxa de criação de empresas ao longo dos meses desde a data de contratação do contador. Não sabe o que é Cohort? [Leia este artigo](https://customersuccessbrasil.com/analise-cohort-um-grande-aliado-da-operacao-de-customer-success/) e entenda.
 
 Você também precisará desenvolver uma hipótese sobre se há ou não uma relação entre o engajamento dos contadores e o cancelamento do contrato. Fique livre para decidir como construir esta hipótese: poderá usar gráficos, criar textos de análise ou ser criativo :D
 
