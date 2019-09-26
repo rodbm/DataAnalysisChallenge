@@ -193,7 +193,7 @@ for cohort in cohort_list:
         cohort = int(cohort)
         df= []
         total = int(cohort_acc.loc[cohort_acc['cohort'] == cohort] \
-                    ['total'].to_list()[0])
+                    ['total'].tolist()[0])
         df.append((cohort,total,m,0))
         df = pd.DataFrame(df)
         df.rename(columns = {0:'cohort',
