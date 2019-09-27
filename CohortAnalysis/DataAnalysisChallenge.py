@@ -250,3 +250,26 @@ cohort_acc_plot = sns.heatmap(data = cohort_acc,
                               vmin = 0.0,
                               vmax = 1.0,
                               cmap = "YlGnBu")
+
+# 6) #----- Cohorts Correlation Hypothesis: Qualitative Analysis -----#
+cohort_org = cohort_org.T
+cohort_acc = cohort_acc.T
+
+df_corr = pd.merge(pd.DataFrame(cohort_org.corrwith(cohort_acc)), 
+              pd.DataFrame(base_engaj_accountant.groupby('cohort') \
+                           ['accountantId'].nunique()), 
+              how='left', 
+              on='cohort').dropna()
+
+df_corr = df_corr.rename(columns={0: 'corr', 'accountantId': 'acc_weight'})
+
+sns.regplot(cohort_org[2], cohort_acc[2])
+sns.regplot(cohort_org[3], cohort_acc[3])
+sns.regplot(cohort_org[4], cohort_acc[4])
+sns.regplot(cohort_org[5], cohort_acc[5])
+sns.regplot(cohort_org[6], cohort_acc[6])
+
+print('The weighted correlation between the lack of accountant engagement '+
+      'rate and accountant churn rate is of '+
+str(round((((df_corr['corr']*df_corr['acc_weight']).sum())/
+     df_corr['acc_weight'].sum())*(-1), 4)*100)+'%.')
